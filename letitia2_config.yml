@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: 我的个人日志
+description: 记录生活的点点滴滴
+permalink: /:year/:month/:day/:title/
